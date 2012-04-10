@@ -1,0 +1,22 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Text Mode Rasterizer", "Text Mode Rasterizer.vcxproj", "{22B58C36-34FF-4D52-95F8-B32524759620}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release - Compatibility|Win32 = Release - Compatibility|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22B58C36-34FF-4D52-95F8-B32524759620}.Debug|Win32.ActiveCfg = Debug|Win32
+		{22B58C36-34FF-4D52-95F8-B32524759620}.Debug|Win32.Build.0 = Debug|Win32
+		{22B58C36-34FF-4D52-95F8-B32524759620}.Release - Compatibility|Win32.ActiveCfg = Release - Compatibility|Win32
+		{22B58C36-34FF-4D52-95F8-B32524759620}.Release - Compatibility|Win32.Build.0 = Release - Compatibility|Win32
+		{22B58C36-34FF-4D52-95F8-B32524759620}.Release|Win32.ActiveCfg = Release|Win32
+		{22B58C36-34FF-4D52-95F8-B32524759620}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

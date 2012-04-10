@@ -1,0 +1,24 @@
+Meshes
+0	note
+1	note
+2	note
+3	trumpet
+4	trumpet facing another way
+5	ear
+6	sphere
+
+Floats
+0	previous value holder
+1	another previous value holder
+2	again another previous value holder
+3	rotation value holder
+4	scale holder
+5	explosion progress holder
+
+BufferFillers
+0	fading tunnel
+1	black circle fill
+2	radial fill
+3	pink circle fill
+4	pink metaballs
+5	fire
